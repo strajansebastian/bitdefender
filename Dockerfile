@@ -16,7 +16,7 @@ FROM ubuntu:bionic
 
 LABEL maintainer "https://github.com/blacktop"
 
-LABEL malice.plugin.repository = "https://github.com/malice-plugins/bitdefender.git"
+LABEL malice.plugin.repository = "https://github.com/strajansebastian/bitdefender.git"
 LABEL malice.plugin.category="av"
 LABEL malice.plugin.mime="*"
 LABEL malice.plugin.docker.engine="*"
